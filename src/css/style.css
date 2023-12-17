@@ -79,7 +79,7 @@ main {
 }
 
 .box2 button {
-margin: 40px;
+margin: 40px 40px 0;
 font-size: 25px;
 padding: 10px 20px ;
 border-radius: 30px;
