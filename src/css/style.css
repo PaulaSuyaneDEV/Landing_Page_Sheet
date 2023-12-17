@@ -7,8 +7,8 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
-    height: 100vh;
-    width: 100vw;
+    max-height: 100vh;
+    max-width: 100vw;
     background-color: #fefee3;
 }
 /* header */ 
@@ -79,7 +79,7 @@ main {
 }
 
 .box2 button {
-margin: 40px 40px 0px;
+margin: 70px 40px 0px;
 font-size: 25px;
 padding: 10px 20px ;
 border-radius: 30px;
