@@ -58,7 +58,7 @@ main {
     height: 500px;
     width: 450px;
     display: block;
-    margin: 50px auto;
+    margin: 50px auto 0px;
 }
 .box2 {
     width: 55%;
@@ -79,7 +79,7 @@ main {
 }
 
 .box2 button {
-margin: 40px 40px 0;
+margin: 40px 40px 0px;
 font-size: 25px;
 padding: 10px 20px ;
 border-radius: 30px;
