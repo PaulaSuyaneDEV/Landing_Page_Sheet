@@ -62,7 +62,7 @@ main {
 }
 .box2 {
     width: 55%;
-    margin: 100px auto 0;
+    margin: 70px auto 0;
     padding-right: 100px;
 }
 .box2 h1 {
@@ -142,6 +142,11 @@ text-transform: uppercase;
     }
     .box2 h1 {
         font-size: 40px;
+    }
+
+    button {
+        display: block;
+        margin: 40px auto 0;
     }
 
 
