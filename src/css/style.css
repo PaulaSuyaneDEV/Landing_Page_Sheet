@@ -42,7 +42,7 @@ nav a {
 
 /* main */
 main {
-    height: 88vh;
+    max-height: 88vh;
 }
 
 .box-main {
